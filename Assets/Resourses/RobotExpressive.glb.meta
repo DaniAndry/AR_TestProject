@@ -1,0 +1,97 @@
+fileFormatVersion: 2
+guid: 14fe587eea5f98b4d843c2bbde719eaa
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:AnimationClip
+      assembly: UnityEngine.AnimationModule
+      name: Dance
+    second: {fileID: 7400000, guid: 3f4b3b6ce4c3eec40922135416d6ce1e, type: 2}
+  - first:
+      type: UnityEngine:AnimationClip
+      assembly: UnityEngine.AnimationModule
+      name: Death
+    second: {fileID: 7400000, guid: 9bf31b13298c0b3469a66976edd292c6, type: 2}
+  - first:
+      type: UnityEngine:AnimationClip
+      assembly: UnityEngine.AnimationModule
+      name: Idle
+    second: {fileID: 7400000, guid: 4f6785a4658a2cd409724063687eebd1, type: 2}
+  - first:
+      type: UnityEngine:AnimationClip
+      assembly: UnityEngine.AnimationModule
+      name: Jump
+    second: {fileID: 7400000, guid: 4b05f7857a7d8bf4da83aea9cc0d8c85, type: 2}
+  - first:
+      type: UnityEngine:AnimationClip
+      assembly: UnityEngine.AnimationModule
+      name: No
+    second: {fileID: 7400000, guid: d502045ee59eb754a9156f958dd233e8, type: 2}
+  - first:
+      type: UnityEngine:AnimationClip
+      assembly: UnityEngine.AnimationModule
+      name: Punch
+    second: {fileID: 7400000, guid: 5eb43d9b213292b408280f4986e26780, type: 2}
+  - first:
+      type: UnityEngine:AnimationClip
+      assembly: UnityEngine.AnimationModule
+      name: Running
+    second: {fileID: 7400000, guid: b4abdb4c9ce4ed7439e1fb8de4baa905, type: 2}
+  - first:
+      type: UnityEngine:AnimationClip
+      assembly: UnityEngine.AnimationModule
+      name: Sitting
+    second: {fileID: 7400000, guid: 7d2574d6ad65ec24fb0cd6e87c31f0b6, type: 2}
+  - first:
+      type: UnityEngine:AnimationClip
+      assembly: UnityEngine.AnimationModule
+      name: Standing
+    second: {fileID: 7400000, guid: 1109cac5d356f7b4f8508929b0b09e00, type: 2}
+  - first:
+      type: UnityEngine:AnimationClip
+      assembly: UnityEngine.AnimationModule
+      name: ThumbsUp
+    second: {fileID: 7400000, guid: 2824397e84eabfc499a46dacef854e4a, type: 2}
+  - first:
+      type: UnityEngine:AnimationClip
+      assembly: UnityEngine.AnimationModule
+      name: WalkJump
+    second: {fileID: 7400000, guid: 2a916a319418e8844afa38addd805715, type: 2}
+  - first:
+      type: UnityEngine:AnimationClip
+      assembly: UnityEngine.AnimationModule
+      name: Walking
+    second: {fileID: 7400000, guid: 99113e357310ced439c496e80fee5cb3, type: 2}
+  - first:
+      type: UnityEngine:AnimationClip
+      assembly: UnityEngine.AnimationModule
+      name: Wave
+    second: {fileID: 7400000, guid: 55f5dc821df77b246935460d62778361, type: 2}
+  - first:
+      type: UnityEngine:AnimationClip
+      assembly: UnityEngine.AnimationModule
+      name: Yes
+    second: {fileID: 7400000, guid: 1ec2e62f9130e854ca2cd629297246c5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Black
+    second: {fileID: 2100000, guid: a7095ccb59f99084f927a88ad83af894, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Grey
+    second: {fileID: 2100000, guid: 204a365fc5685b5418d0b35119ba3746, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Main
+    second: {fileID: 2100000, guid: 3a6e6938a739bd44e81c1e2bfcd5947e, type: 2}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: cc45016b844e7624dae3aec10fb443ea, type: 3}
+  reverseAxis: 0
+  renderPipeline: 0

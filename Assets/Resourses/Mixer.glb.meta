@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 8d21c5dca9783f546b066363f65d1f92
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mixer02Shader
+    second: {fileID: -6124249423056326475, guid: 8d21c5dca9783f546b066363f65d1f92,
+      type: 3}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: cc45016b844e7624dae3aec10fb443ea, type: 3}
+  reverseAxis: 0
+  renderPipeline: 0

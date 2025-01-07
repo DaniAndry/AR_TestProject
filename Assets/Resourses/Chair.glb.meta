@@ -1,0 +1,32 @@
+fileFormatVersion: 2
+guid: 5f036a61f2f67c540875780b23a4ae4a
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Chair
+    second: {fileID: 2100000, guid: 71fede51d231f534e82e659597c9e3d5, type: 2}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: Chair_baseColor
+    second: {fileID: 2800000, guid: 674b139b3d09797488c9b34e09395120, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: Chair_normal.normal
+    second: {fileID: 2800000, guid: 01b45a3f68bbf3c4fa943880460fdd1a, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: Chair_occlusionRoughnessMetallic.standard
+    second: {fileID: 2800000, guid: 652c53803dac69c42bb5e16193c1252d, type: 3}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: cc45016b844e7624dae3aec10fb443ea, type: 3}
+  reverseAxis: 0
+  renderPipeline: 0
